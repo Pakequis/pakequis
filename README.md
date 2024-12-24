@@ -1,4 +1,5 @@
 ### Rodrigo Feliciano 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakequis)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" href="https://www.youtube.com/pakequis/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
